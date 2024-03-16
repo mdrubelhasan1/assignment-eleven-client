@@ -1,0 +1,273 @@
+[
+    {
+      
+      "name": "Red Racing Car",
+      "brand": "Speedy Toys",
+      "color": "Red",
+      "scale": "1:24",
+      "price": 14.99,
+      "image_url": "https://i.ibb.co/hCN7HM2/1644424493579.jpg"
+    },
+    {
+      
+      "name": "Blue Pickup Truck",
+      "brand": "Offroad Adventures",
+      "color": "Blue",
+      "scale": "1:32",
+      "price": 19.99,
+      "image_url": "https://i.ibb.co/QF6FS0Y/maxresdefault.jpg"
+    },
+    {
+      
+      "name": "Yellow School Bus",
+      "brand": "KidzWheels",
+      "color": "Yellow",
+      "scale": "1:48",
+      "price": 12.99,
+      "image_url": "https://example.com/yellow_school_bus.jpg"
+    },
+    {
+      
+      "name": "Green Monster Truck",
+      "brand": "Extreme Rides",
+      "color": "Green",
+      "scale": "1:18",
+      "price": 29.99,
+      "image_url": "https://example.com/green_monster_truck.jpg"
+    },
+    {
+      
+      "name": "Silver Sports Car",
+      "brand": "TurboSpeed",
+      "color": "Silver",
+      "scale": "1:24",
+      "price": 21.99,
+      "image_url": "https://example.com/silver_sports_car.jpg"
+    },
+    {
+      
+      "name": "Black Police Cruiser",
+      "brand": "Law Enforcement Toys",
+      "color": "Black",
+      "scale": "1:32",
+      "price": 16.99,
+      "image_url": "https://example.com/black_police_cruiser.jpg"
+    },
+    {
+      "id": 7,
+      "name": "White Ambulance",
+      "brand": "Emergency Response",
+      "color": "White",
+      "scale": "1:48",
+      "price": 18.99,
+      "image_url": "https://example.com/white_ambulance.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Orange Construction Truck",
+      "brand": "Hard Hat Vehicles",
+      "color": "Orange",
+      "scale": "1:32",
+      "price": 24.99,
+      "image_url": "https://example.com/orange_construction_truck.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Purple Convertible",
+      "brand": "Dream Drives",
+      "color": "Purple",
+      "scale": "1:24",
+      "price": 17.99,
+      "image_url": "https://example.com/purple_convertible.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Red Fire Engine",
+      "brand": "Firefighter Toys",
+      "color": "Red",
+      "scale": "1:32",
+      "price": 22.99,
+      "image_url": "https://example.com/red_fire_engine.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Blue Racecar",
+      "brand": "SpeedMaster",
+      "color": "Blue",
+      "scale": "1:24",
+      "price": 20.99,
+      "image_url": "https://example.com/blue_racecar.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Yellow Taxi Cab",
+      "brand": "City Cabs",
+      "color": "Yellow",
+      "scale": "1:48",
+      "price": 15.99,
+      "image_url": "https://example.com/yellow_taxi_cab.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Green Delivery Van",
+      "brand": "Fast Freight",
+      "color": "Green",
+      "scale": "1:32",
+      "price": 19.99,
+      "image_url": "https://example.com/green_delivery_van.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Silver Luxury Sedan",
+      "brand": "Elite Autos",
+      "color": "Silver",
+      "scale": "1:24",
+      "price": 26.99,
+      "image_url": "https://example.com/silver_luxury_sedan.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Black Limo",
+      "brand": "VIP Rides",
+      "color": "Black",
+      "scale": "1:32",
+      "price": 31.99,
+      "image_url": "https://example.com/black_limo.jpg"
+    },
+    {
+      "id": 16,
+      "name": "White Ice Cream Truck",
+      "brand": "Treats on Wheels",
+      "color": "White",
+      "scale": "1:48",
+      "price": 27.99,
+      "image_url": "https://example.com/white_ice_cream_truck.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Orange Racecar",
+      "brand": "Fast Lane Racing",
+      "color": "Orange",
+      "scale": "1:24",
+      "price": 23.99,
+      "image_url": "https://example.com/orange_racecar.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Purple Monster Truck",
+      "brand": "Extreme Rides",
+      "color": "Purple",
+      "scale": "1:18",
+      "price": 34.99,
+      "image_url": "https://example.com/purple_monster_truck.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Red Ferrari",
+      "brand": "Italian Stallion",
+      "color": "Red",
+      "scale": "1:24",
+      "price": 39.99,
+      "image_url": "https://example.com/red_ferrari.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Blue Volkswagen Beetle",
+      "brand": "Retro Rides",
+      "color": "Blue",
+      "scale": "1:32",
+      "price": 29.99,
+      "image_url": "https://example.com/blue_volkswagen_beetle.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Yellow School Bus",
+      "brand": "Retro Rides",
+      "color": "Yellow",
+      "scale": "1:48",
+      "price": 22.99,
+      "image_url": "https://example.com/yellow_school_bus_retro.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Green Army Jeep",
+      "brand": "Battlefield Toys",
+      "color": "Green",
+      "scale": "1:32",
+      "price": 19.99,
+      "image_url": "https://example.com/green_army_jeep.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Silver Tesla",
+      "brand": "Electric Drives",
+      "color": "Silver",
+      "scale": "1:24",
+      "price": 54.99,
+      "image_url": "https://example.com/silver_tesla.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Black Batmobile",
+      "brand": "Gotham Toys",
+      "color": "Black",
+      "scale": "1:32",
+      "price": 49.99,
+      "image_url": "https://example.com/black_batmobile.jpg"
+    },
+    {
+      "id": 25,
+      "name": "White Police Car",
+      "brand": "Law Enforcement Toys",
+      "color": "White",
+      "scale": "1:24",
+      "price": 44.99,
+      "image_url": "https://example.com/white_police_car.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Red Vintage Car",
+      "brand": "Classic Wheels",
+      "color": "Red",
+      "scale": "1:24",
+      "price": 37.99,
+      "image_url": "https://example.com/red_vintage_car.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Blue Convertible",
+      "brand": "Dream Drives",
+      "color": "Blue",
+      "scale": "1:32",
+      "price": 32.99,
+      "image_url": "https://example.com/blue_convertible.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Yellow Taxi Cab",
+      "brand": "Retro Rides",
+      "color": "Yellow",
+      "scale": "1:48",
+      "price": 25.99,
+      "image_url": "https://example.com/yellow_taxi_cab_retro.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Green Tractor",
+      "brand": "Farm Fun",
+      "color": "Green",
+      "scale": "1:32",
+      "price": 19.99,
+      "image_url": "https://example.com/green_tractor.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Silver Limousine",
+      "brand": "Luxury Rides",
+      "color": "Silver",
+      "scale": "1:24",
+      "price": 59.99,
+      "image_url": "https://example.com/silver_limousine.jpg"
+    }
+  ]
+  

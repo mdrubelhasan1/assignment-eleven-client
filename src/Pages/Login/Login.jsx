@@ -26,8 +26,7 @@ const Login = () => {
             })
             .catch(error => {
                 console.log(error)
-            })
-
+            });
 
 
     }
@@ -41,7 +40,7 @@ const Login = () => {
             .catch(error => {
                 console.log(error)
             })
-    }
+    };
 
 
 

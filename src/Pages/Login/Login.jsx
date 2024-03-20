@@ -74,7 +74,7 @@ const Login = () => {
                             <input className="btn btn-primary" type="submit" value="Login" />
                         </div>
                     </form>
-                    <button onClick={handleGoogleSignIn} className='p-4 bg-orange-300 ml-14 mr-14 rounded-lg'>Sign In With Google</button>
+                    <button onClick={handleGoogleSignIn} className='p-4 bg-orange-300 ml-14 mr-14 rounded-lg font-bold text-violet-600 hover:bg-orange-500'>Sign In With Google</button>
                     <p className='pb-4 text-center'>New to Toy Corner? <Link className='text-orange-500 font-bold ' to='/signup'>Sign Up</Link></p>
                 </div>
             </div>

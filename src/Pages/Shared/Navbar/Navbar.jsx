@@ -1,12 +1,11 @@
-import React, { useContext } from 'react';
+import React, { useContext, useState } from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../../assets/toylogo.jpg'
 import { AuthContext } from '../../../provider/AuthProviders';
+import './Navbar.css';
 
 const Navbar = () => {
     const { user, logOut } = useContext(AuthContext);
-
-
 
     const handleLogOut = () => {
         logOut()
@@ -26,10 +25,12 @@ const Navbar = () => {
         {user?.email ?
             <>
                 <li><Link to='/mytoys'>My Toys</Link></li>
-                <li><Link to='/addtoy'>Add A Toy</Link></li>
+                <li><Link to='/'>Add A Toy</Link></li>
+
                 <li>
                     <img className='w-2/4 h-20px rounded-full ' src={user.photoURL} alt="Profile" />
                 </li>
+
                 <li><button onClick={handleLogOut}>Log out</button></li>
             </> :
             <li><Link to='/login'>Login</Link></li>}
@@ -56,6 +57,8 @@ const Navbar = () => {
 
                 </ul>
             </div>
+
+
 
         </div>
     )
